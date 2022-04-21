@@ -1,0 +1,24 @@
+// @import "../../assets/styles/helpers/mixins.scss";
+
+.image-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  img {
+    width: 100%;
+  }
+}
+//
+.main-section{
+  height: 2000px;
+}
+
+.main-section{
+
+  .light-heading{
+    color:rgba($color: #706960, $alpha: 0.1) ;
+    font-family: 'Poppins-bold';
+    font-size:15.1rem ;
+  }
+}
